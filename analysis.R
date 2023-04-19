@@ -34,7 +34,7 @@ dt_read <- dt_read %>%
 #============================
 
 #1) Amount spent on subscriptions (namecheap, netflix etc)
-#using Regex to get similar lines from the recipient table
+#using Regex to get similar lines from the recipient column
   
 sub <- c("flutterwave", "raenest", "paystack", "fincra", "vfd", "mono", "raven", "aboki", "chipper")
 
